@@ -1,0 +1,7 @@
+In this guided project, we will be using Neural Networks powered Amazon translate batch translation feature to translate documents such as Word, Power points and Excel sheets while maintaining its format. We will begin by exploring Amazon Translate and creating a S3 storage bucket with input & output folders. We will then create a batch translation job to translate the document into a desired language. By the end of this project, you will be confident in working with Amazon translate and you will be able to translate any document to any language supported by Amazon translate.
+
+Learning Objectives:
+
+-Creating a S3 Storage bucket to upload files & download translated files
+-Creating a batch translation job to translate documents such as Word, Excel & PPTs
+-Translating a MS Word document using the Amazon Translate batch translation feature
